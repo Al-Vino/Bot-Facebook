@@ -1,2 +1,2 @@
 # Bot-Facebook
-Bot komen + like untuk Facebook
+Script ini untuk bot komen + like 1 postingan 
