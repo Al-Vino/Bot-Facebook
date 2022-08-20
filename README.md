@@ -1,3 +1,3 @@
 # Bot-Facebook
-# 🤤 Facebook menyusul 🤤
+# 🤤 Script Facebook menyusul 🤤
 Script ini untuk bot komen + like 1 postingan 
